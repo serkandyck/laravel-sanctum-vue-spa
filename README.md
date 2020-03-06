@@ -10,7 +10,7 @@
 
 ## Features
 
-- Laravel 7.0
+- Laravel 7.0 With Airlock
 - Vue + VueRouter + Vuex + VueI18n + ESlint
 - Pages with dynamic import and custom layouts
 - Login, register, email verification and password reset all functional on airlock
@@ -20,7 +20,7 @@
 ## Installation
 
 - `git clone https://github.com/serkandyck/laravel-airlock-vue-spa`
-- Edit `.env` and set your database connection details and set SESSION_DOMAIN, AIRLOCK_STATEFUL_DOMAINS
+- Edit `.env` and set your database connection details and set your environment SESSION_DOMAIN, AIRLOCK_STATEFUL_DOMAINS default 127.0.0.1
 - `php artisan migrate`
 - `npm install`
 

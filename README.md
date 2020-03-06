@@ -1,7 +1,5 @@
 # Laravel7-Airlock-Vue SPA 
 
-<a href="https://packagist.org/packages/serkandyck/laravel-airlock-vue-spa"><img src="https://poser.pugx.org/serkandyck/laravel-airlock-vue-spa/d/total.svg" alt="Total Downloads"></a>
-
 > A Laravel-Airlock-Vue SPA starter project template. This project inspired [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa)
 
 <p align="center">

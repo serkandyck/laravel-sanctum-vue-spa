@@ -18,6 +18,7 @@
 ## Installation
 
 - `git clone https://github.com/serkandyck/laravel-airlock-vue-spa`
+- `composer install`
 - Edit `.env` and set your database connection details and set your environment SESSION_DOMAIN, AIRLOCK_STATEFUL_DOMAINS default 127.0.0.1
 - `php artisan migrate`
 - `npm install`

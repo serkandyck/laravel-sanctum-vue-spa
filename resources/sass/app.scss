@@ -1,8 +1,15 @@
-// Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import "~tailwindcss/base";
 
-// Variables
-@import 'variables';
+@import "~tailwindcss/components";
 
-// Bootstrap
-@import '~bootstrap/scss/bootstrap';
+@import "~tailwindcss/utilities";
+
+#app {
+    width: 100%;
+}
+
+.help-block {
+    font-style: italic;
+    font-size: 0.75rem;
+    color: #f56565;
+}

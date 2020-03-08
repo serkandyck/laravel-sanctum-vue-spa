@@ -17,6 +17,7 @@
         "js-cookie": "^2.2.1",
         "popper.js": "^1.16.1",
         "sweetalert2": "^9.8.2",
+        "tailwindcss": "^1.2.0",
         "vform": "^1.0.1",
         "vue": "^2.6.11",
         "vue-i18n": "^8.15.4",
@@ -28,6 +29,7 @@
     "devDependencies": {
         "@babel/plugin-syntax-dynamic-import": "^7.8.3",
         "@babel/preset-env": "^7.8.7",
+        "@tailwindcss/custom-forms": "^0.2.1",
         "babel-eslint": "^10.1.0",
         "bootstrap": "^4.0.0",
         "cross-env": "^7.0.2",

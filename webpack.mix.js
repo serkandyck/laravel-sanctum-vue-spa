@@ -1,12 +1,17 @@
 const path = require('path')
 const fs = require('fs-extra')
 const mix = require('laravel-mix')
+const tailwindcss = require('tailwindcss');
 
 mix
   .js('resources/js/app.js', 'public/dist/js')
   .sass('resources/sass/app.scss', 'public/dist/css')
 
   .disableNotifications()
+  .options({
+    processCssUrls: false,
+    postCss: [tailwindcss('./tailwind.config.js')],
+  })
 
 if (mix.inProduction()) {
   require('laravel-mix-versionhash')

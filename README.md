@@ -3,7 +3,7 @@
 > A Laravel-Airlock-Vue SPA starter project template. This project inspired [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa)
 
 <p align="center">
-<img src="https://i.imgur.com/NHFTsGt.png">
+<img src="https://raw.githubusercontent.com/serkandyck/laravel-airlock-vue-spa/master/screenshot/login.png">
 </p>
 
 ## Features
@@ -13,7 +13,7 @@
 - Pages with dynamic import and custom layouts
 - Login, register, email verification and password reset all functional on airlock
 - Authentication with [Airlock](https://github.com/laravel/airlock)
-- Bootstrap 4
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Installation
 

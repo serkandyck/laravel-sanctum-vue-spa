@@ -15,7 +15,7 @@ $config = [
 
   <link rel="stylesheet" href="{{ mix('dist/css/app.css') }}">
 </head>
-<body>
+<body class="h-screen overflow-hidden flex items-center justify-center" style="background: #edf2f7;">
   <div id="app"></div>
 
   {{-- Global configuration object --}}

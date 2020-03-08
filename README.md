@@ -3,7 +3,7 @@
 > A Laravel-Airlock-Vue SPA starter project template. This project inspired [cretueusebiu/laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/serkandyck/laravel-airlock-vue-spa/master/screenshot/login.png">
+<img src="https://raw.githubusercontent.com/serkandyck/laravel-airlock-vue-spa/master/screenshot/login.jpg">
 </p>
 
 ## Features

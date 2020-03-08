@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
+  <div class="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-md w-full">
       <div>
         <img class="mx-auto h-12 w-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Workflow" />
@@ -9,7 +9,7 @@
         <p class="mt-2 text-center text-sm leading-5 text-gray-600 max-w">
           Don't Have an Account?
           <router-link :to="{ name: 'register' }" class="font-medium text-indigo-600 hover:text-indigo-500 focus:outline-none focus:underline transition ease-in-out duration-150">
-            Register Here
+            Sign up
           </router-link>
         </p>
       </div>
